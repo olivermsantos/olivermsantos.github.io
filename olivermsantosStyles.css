@@ -51,6 +51,7 @@ nav{
     margin: auto;
     font-family: Helvetica, sans-serif;
     font-size: 1.5rem;
+    overflow-wrap: break-word;
 }
 
 
