@@ -12,6 +12,23 @@ html{
     background-color: slategrey;
 }
 
+body{
+    /*display: flex;*/
+    width: 75%;
+    margin: auto;
+    max-width: 100%;
+    background-color: slateGrey;
+    padding: 20px;
+}
+.contentBox{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    max-width: 100%;
+    background-color: lightGrey;
+    padding: 20px;
+}
 
 #myName{
     font-family: Helvetica, sans-serif;
@@ -19,6 +36,8 @@ html{
     text-align: center;
     color: black;
 }
+
+
 
 h1{
     font-family: Helvetica, sans-serif;
@@ -38,14 +57,7 @@ h2{
     margin: auto
 }
 
-body{
-    /*display: flex;*/
-    width: 75%;
-    margin: auto;
-    max-width: 100%;
-    background-color:LightGrey;
-    padding: 20px;
-}
+
 
 nav{
     display: flex;
