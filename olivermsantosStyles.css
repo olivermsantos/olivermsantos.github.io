@@ -11,6 +11,7 @@ html{
     background-color: slategrey;
 }
 
+
 #myName{
     font-family: Helvetica, sans-serif;
     font-size: 3rem;
@@ -37,6 +38,8 @@ h2{
 }
 
 body{
+    width: 100%;
+    max-width: 100%;
     background-color:LightGrey;
     padding: 20px;
 }
