@@ -2,7 +2,7 @@
 
 html{
     display: flex;
-    width: 100%;
+    width: auto;
     max-width: 100%;
     font-size: 16px;
     margin-top: 0px;
@@ -39,7 +39,8 @@ h2{
 }
 
 body{
-    width: 95%;
+    display: flex;
+    width: auto;
     max-width: 95%;
     background-color:LightGrey;
     padding: 20px;
