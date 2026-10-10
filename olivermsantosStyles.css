@@ -1,6 +1,7 @@
 /* Styles for my website */
 
 html{
+    display: flex;
     width: 100%;
     max-width: 100%;
     font-size: 16px;
