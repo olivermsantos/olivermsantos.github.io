@@ -34,7 +34,7 @@ h2{
 
 #mainPicture{
     display: flex;
-    padding: 15px;
+    padding: auto;
     margin: auto
 }
 
