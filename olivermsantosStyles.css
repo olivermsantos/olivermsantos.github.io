@@ -41,6 +41,7 @@ h2{
 body{
     display: flex;
     width: auto;
+    margin: auto;
     max-width: 95%;
     background-color:LightGrey;
     padding: 20px;
