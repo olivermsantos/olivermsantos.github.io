@@ -1,0 +1,54 @@
+/* Styles for my website */
+
+html{
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 30rem;
+    margin-left: 30rem;
+    background-color: slategrey;
+}
+
+#myName{
+    font-family: Helvetica, sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    color: black;
+}
+
+h1{
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    color: black;
+}
+
+h2{
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    color: black;
+}
+
+#mainPicture{
+    display: flex;
+    padding: 15px;
+    margin: auto
+}
+
+body{
+    background-color:LightGrey;
+    padding: 20px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    width: auto;
+    border: 0.25rem solid navy;
+    padding: 15px;
+    margin: auto;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5rem;
+}
+
+
+
